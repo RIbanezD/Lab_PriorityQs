@@ -25,15 +25,15 @@ ColasDePrioridad_Ruben_Ibañez/
 | Opción | Descripción |
 |---|---|
 | 1. Registrar Ticket | Código con correlativo **automático** o **manual** (TCK + 4 dígitos). |
-| 2. Mostrar Siguiente Ticket |
-| 3. Atender Ticket |
+| 2. Mostrar Siguiente Ticket | Muestra el siguiente ticket en cola |
+| 3. Atender Ticket | Cambia el estado de *pendiente* a *atendido* |
 | 4. Mostrar Cola de Prioridad | Tabla con colores por prioridad (rojo = más urgente, verde = menos urgente). |
 | 5. Buscar Ticket | Por código, prioridad, estado (pendientes / atendidos), cliente o descripción. |
 | 6. Mostrar Cantidad de Tickets | En cola, atendidos y total. |
 | 7. Reabrir Ticket Atendido | Devuelve un ticket atendido. |
 | 8. Guardar Datos | Exporta todos los tickets a `tickets.csv`. |
 | 9. Importar Datos | Carga los tickets desde `tickets.csv`. |
-| 10. Salir | |
+| 10. Salir | Finaliza el programa |
 
 ## Notas
 
